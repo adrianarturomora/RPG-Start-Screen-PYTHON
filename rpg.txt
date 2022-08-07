@@ -1,2 +1,0 @@
-Adrian,Mage,M,4000
-John,Warrior,M,457
